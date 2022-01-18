@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Abhi20220
-- 👀 I’m interested in ... programming/coding, gaming, 
+- 👋 Hi, I’m @Abhi20220 or just Abhi; nice to meet you
+- 👀 I’m interested in ... programming/coding, gaming, cooking and most importantly expanding my current skill set
 - 🌱 I’m currently learning ... how to program/code
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... projects that will help me build upon my current skills
+- 📫 How to reach me ... https://www.linkedin.com/in/abhishek-chaudhary-692b1a22a/
+- 
 
 <!---
 Abhi20220/Abhi20220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
