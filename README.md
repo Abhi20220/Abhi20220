@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhi20220 or just Abhi; nice to meet you
+- 👋 Hi, I’m @Abhi20220 or just Abhi; nice to meet you I'm a full stack developer 
 - 👀 I’m interested in ... programming/coding, gaming, cooking and most importantly expanding my current skill set
 - 🌱 I’m currently learning ... how to program/code
 - 💞️ I’m looking to collaborate on ... projects that will help me build upon my current skills
